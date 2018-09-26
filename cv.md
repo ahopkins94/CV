@@ -36,31 +36,43 @@ Wimbledon High School (Graduated 2012)
 Experience:
 
 Crew Clothing Company (November 2016 to August 2018)
+
 Channels Assistant Merchandiser
+
 Supporting the running of the channels team (Crew Clothing outlet stores, TK Maxx, shows/fairs) through providing stock and profitability analysis and forecasting for management.
 
 Sister London PR (September 2016)
+
 Fashion PR Intern
+
 Contributing to the day to day running of the office with research projects, writing copy and undertaking administrative tasks.
 
 Sister and Company (May 2016)
+
 Production Assistant
+
 Production of coconut oil based beauty products, including packaging.
 
 High Society (2015-2016)
+
 Waitress
+
 Team leader and ambassador, providing silver service catering, responsible for a team of waitresses.
 
 National Australia Bank (August 2014)
+
 Work Experience
+
 In the Finance department, used Excel in analysing financial accounting data.
 
 Wimbledon Lawn Tennis Championships	(June/July 2013 and 2014)
+
 Waitress
+
 Food service for the Baseline Café, working in a fast paced environment under high pressure.
 
 Other Interests:
 
-Watching films
-Baking sweet treats
-Pilates
+- Watching films
+- Baking sweet treats
+- Pilates
