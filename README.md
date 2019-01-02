@@ -1,6 +1,16 @@
-Anouska Hopkins
+# Anouska Hopkins
 
-I'm a former assistant merchandiser about to embark on the October cohort of the Makers Academy to learn to code. I have produced analysis regularly at Crew Clothing and I excelled in my logic module during my Philosophy degree at Bristol. I am looking to leverage off these skills by becoming a developer and undertaking stimulating work with interesting people in a diverse environment.
+I'm looking to keep on learning and coding in a **diverse, stimulating and growth mindset environment**.
+
+After graduating from Bristol University with a degree in Philosophy, I spent nearly two years working in the merchandising department at Crew Clothing Company. Since then, I learnt to code at **Makers Academy** (four month software development bootcamp).  
+
+**Tech Skills : Ruby, Rails, Sinatra, Rspec, Capybara, Postgres, Javascript, React, Jasmine, Cypress, Jest, Enzyme, HTML, CSS, Jquery**
+
+## Projects:
+
+| Project  | Description | Technologies |
+| ------------- | ------------- | ------------- |
+| [SchejFrontEnd](https://github.com/ahopkins94/SchejFrontEnd) | A UI for a user to sign-up/sign-in and view, add or swap their shifts in a calendar | React, Javascript, Node, Cypress, Enzyme, Jest |
 
 Skills:
 
