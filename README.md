@@ -54,7 +54,7 @@ Finally, at Crew Clothing I was asked to work for the menswear, womenswear and t
 
 ## Experience:
 
-**Crew Clothing Company (November 2016 to August 2018**
+**Crew Clothing Company (November 2016 to August 2018)**
 
 Channels Assistant Merchandiser
 
