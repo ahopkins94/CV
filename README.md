@@ -36,6 +36,8 @@ Finally, at Crew Clothing I was asked to work for the menswear, womenswear and t
 
 * Agile Product Development
 * Test Driven Development
+* Pair Programming
+* Object Oriented Design
 
 ## Education:
 
