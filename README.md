@@ -4,7 +4,7 @@ I'm looking to keep on learning and coding in a **diverse, stimulating and growt
 
 After graduating from Bristol University with a degree in Philosophy, I spent nearly two years working in the merchandising department at Crew Clothing Company. Since then, I learnt to code at **Makers Academy** (four month software development bootcamp).  
 
-**Tech Skills : Ruby, Rails, Sinatra, Rspec, Capybara, Postgres, Javascript, React, Jasmine, Cypress, Jest, Enzyme, HTML, CSS, Jquery**
+**Tech Skills : Ruby, Rails, Sinatra, Rspec, Capybara, Postgres, Javascript, React, Jasmine, Cypress, Jest, Enzyme, HTML, CSS, Jquery, Node**
 
 ## Projects:
 
