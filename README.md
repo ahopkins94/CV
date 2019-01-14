@@ -1,10 +1,15 @@
 # Anouska Hopkins
 
-I'm looking to keep on learning and coding in a **diverse, stimulating and growth mindset environment**.
-
-After graduating from Bristol University with a degree in Philosophy, I spent nearly two years working in the merchandising department at Crew Clothing Company. Since then, I learnt to code at **Makers Academy** (four month software development bootcamp).  
+I'm a Makers graduate & full-stack software developer who values working in a **diverse, stimulating and growth mindset environment**.
 
 **Tech Skills : Ruby, Rails, Sinatra, Rspec, Capybara, Postgres, Javascript, React, Jasmine, Cypress, Jest, Enzyme, HTML, CSS, Jquery, Node**
+
+**Technical Processes**
+
+* Agile Product Development
+* Test Driven Development
+* Pair Programming
+* Object Oriented Design
 
 ## Projects:
 
@@ -20,24 +25,23 @@ For more projects please see my [Github](https://github.com/ahopkins94)
 
 **Problem-solving**
 
-Whilst working at Crew Clothing, I had the opportunity to improve **processing efficiency** through problem-solving. I detected faults in spreadsheets and systems which were slowing down the department's efficiency, communicated these faults to my peers, decided on what the ideal outcome would be, and worked towards fulfilling this objective. Following this achievement, I was given responsibility for **ownership** of these processes and spreadsheets.
+* Passion for **debugging** on GitHub projects
 
-Furthermore, this **pro-active attitude** contributed towards the promotion I obtained during my time there. I then increased the efficiency of the new department I was promoted to, for example, automating and enhancing the Monday trade reports.
+* Whilst working at Crew Clothing, I had the opportunity to improve **processing efficiency** through problem-solving. 
+
+* I detected faults in spreadsheets and systems which were slowing down the department's efficiency and fixed them. Following this achievement, I was given responsibility for **ownership** of these processes and spreadsheets.
+
+* I increased the efficiency of the new department I was promoted to, for example, automating and enhancing the Monday trade reports.
 
 **Communication**
 
-Since joining the Philosophy department at Bristol University, my communication skills have been constantly improving through experiencing different types of working environments. During university we discussed complex philosophical theories that required communicating with **clarity** and evidence to reduce the risk of mis-understanding.
+* Experience in **pair programming** and communicating desired code. 
 
-Moreover, while I was waitressing, I gave instructions to my peers in a **pressurised environment** to help avoid any injuries or errors occurring. This successful communication resulted in my becoming a team ambassador in charge of the wellbeing and organisation of the staff on duty.
+* During my philosophy degree at Bristol university we discussed complex philosophical theories that required communicating with **clarity** and evidence to reduce the risk of mis-understanding.
 
-Finally, at Crew Clothing I was asked to work for the menswear, womenswear and the accessories teams simultaneously. I contributed to a **cohesive environment** between these departments and I frequently taught my peers skills I had developed, for example, how to create and amend reports in our data management system, ZAP. I became the go-to person to provide essential skills for new starters within the teams.
+* While I was waitressing, I gave instructions to my peers in a **pressurised environment** to help avoid any injuries or errors occurring. This successful communication resulted in my becoming a team ambassador in charge of the wellbeing and organisation of the staff on duty.
 
-**Technical Processes**
-
-* Agile Product Development
-* Test Driven Development
-* Pair Programming
-* Object Oriented Design
+* At Crew Clothing I was asked to work for the menswear, womenswear and the accessories teams simultaneously. I contributed to a **cohesive environment** between these departments and I frequently taught my peers skills I had developed. I became the go-to person to provide essential skills for new starters within the teams.
 
 ## Education:
 
