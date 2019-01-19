@@ -15,8 +15,8 @@ I'm a Makers graduate & full-stack software developer who values working in a **
 
 | Project  | Description | Technologies |
 | -------- | ----------- | ------------ |
-| [SchejFrontEnd](https://github.com/ahopkins94/SchejFrontEnd) | A UI for a user to sign-up/sign-in and view, add or swap their shifts in a calendar | React, Javascript, Node, Cypress, Enzyme, Jest |
-| [SchejBackEnd](https://github.com/ahopkins94/schejBackend) | A backend business logic model that manages users, shifts, requests and emergency requests in a database | Rails, Ruby, Postgres, Rspec |
+| [SchejFrontEnd](https://github.com/jebax/SchejFrontend) | A UI for a user to sign-up/sign-in and view, add or swap their shifts in a calendar | React, Javascript, Node, Cypress, Enzyme, Jest |
+| [SchejBackEnd](https://github.com/chloeverity/SchejBackend) | A backend business logic model that manages users, shifts, requests and emergency requests in a database | Rails, Ruby, Postgres, Rspec |
 | [Thermostat](https://github.com/ahopkins94/thermostat) | A web app that can react as a thermostat | Javascript, Jquery, CSS, HTML |
 
 For more projects please see my [Github](https://github.com/ahopkins94)
